@@ -1,0 +1,100 @@
+Ticker,Name,Asset Class,Weight,Shares,Market Value,Sector,Exchange
+AAPL,APPLE INC,Equity,5.79,1893310,275722735.3,Information Technology,NASDAQ
+MSFT,MICROSOFT CORP,Equity,4.14,2803546,196977142,Information Technology,NASDAQ
+AMZN,AMAZON COM INC,Equity,3.03,144062,144249280.6,Consumer Discretionary,NASDAQ
+JNJ,JOHNSON & JOHNSON,Equity,2.8,978216,133086286.8,Health Care,New York Stock Exchange Inc.
+FB,FACEBOOK CLASS A INC,Equity,2.77,858337,131668895.8,Information Technology,NASDAQ
+XOM,EXXON MOBIL CORP,Equity,2.62,1538635,124752525.8,Energy,New York Stock Exchange Inc.
+BRKB,BERKSHIRE HATHAWAY INC CLASS B,Equity,2.44,689760,116100403.2,Financials,New York Stock Exchange Inc.
+JPM,JPMORGAN CHASE & CO,Equity,2.36,1290133,112267373.7,Financials,New York Stock Exchange Inc.
+GOOGL,ALPHABET INC CLASS A,Equity,2.22,108079,105552113,Information Technology,NASDAQ
+GE,GENERAL ELECTRIC,Equity,1.83,3162396,87124009.8,Industrials,New York Stock Exchange Inc.
+WFC,WELLS FARGO,Equity,1.8,1633207,85727035.43,Financials,New York Stock Exchange Inc.
+T,AT&T INC,Equity,1.79,2232515,85058821.5,Telecommunications,New York Stock Exchange Inc.
+BAC,BANK OF AMERICA CORP,Equity,1.74,3613855,82865695.15,Financials,New York Stock Exchange Inc.
+PG,PROCTER & GAMBLE,Equity,1.74,928743,82685989.29,Consumer Staples,New York Stock Exchange Inc.
+PFE,PFIZER INC,Equity,1.55,2167092,73811153.52,Health Care,New York Stock Exchange Inc.
+CVX,CHEVRON CORP,Equity,1.51,687968,71858257.6,Energy,New York Stock Exchange Inc.
+CMCSA,COMCAST A CORP,Equity,1.44,1718588,68640404.72,Consumer Discretionary,NASDAQ
+PM,PHILIP MORRIS INTERNATIONAL INC,Equity,1.42,563990,67515242.9,Consumer Staples,New York Stock Exchange Inc.
+HD,HOME DEPOT INC,Equity,1.42,434151,67501797.48,Consumer Discretionary,New York Stock Exchange Inc.
+VZ,VERIZON COMMUNICATIONS INC,Equity,1.41,1481335,67282235.7,Telecommunications,New York Stock Exchange Inc.
+MRK,MERCK & CO INC,Equity,1.38,993221,65572450.42,Health Care,New York Stock Exchange Inc.
+UNH,UNITEDHEALTH GROUP INC,Equity,1.37,349933,65262504.5,Health Care,New York Stock Exchange Inc.
+C,CITIGROUP INC,Equity,1.34,999796,63607021.52,Financials,New York Stock Exchange Inc.
+V,VISA INC CLASS A,Equity,1.32,670432,62987086.4,Information Technology,New York Stock Exchange Inc.
+KO,COCA-COLA,Equity,1.32,1396350,62933494.5,Consumer Staples,New York Stock Exchange Inc.
+PEP,PEPSICO INC,Equity,1.27,518731,60250605.65,Consumer Staples,New York Stock Exchange Inc.
+INTC,INTEL CORPORATION CORP,Equity,1.23,1709983,58755015.88,Information Technology,NASDAQ
+CSCO,CISCO SYSTEMS INC,Equity,1.22,1815669,57829057.65,Information Technology,NASDAQ
+DIS,WALT DISNEY,Equity,1.16,528263,55055569.86,Consumer Discretionary,New York Stock Exchange Inc.
+ORCL,ORACLE CORP,Equity,1.15,1090735,54863970.5,Information Technology,New York Stock Exchange Inc.
+MO,ALTRIA GROUP INC,Equity,1.13,701439,53646054.72,Consumer Staples,New York Stock Exchange Inc.
+IBM,INTERNATIONAL BUSINESS MACHINES CO,Equity,1.01,310454,47934097.6,Information Technology,New York Stock Exchange Inc.
+AMGN,AMGEN INC,Equity,0.98,267222,46448528.04,Health Care,NASDAQ
+MMM,3M,Equity,0.97,217003,46052376.66,Industrials,New York Stock Exchange Inc.
+MCD,MCDONALDS CORP,Equity,0.96,295978,45817394.4,Consumer Discretionary,New York Stock Exchange Inc.
+MDT,MEDTRONIC PLC,Equity,0.93,497081,44284946.29,Health Care,New York Stock Exchange Inc.
+ABBV,ABBVIE INC,Equity,0.89,578045,42301333.1,Health Care,New York Stock Exchange Inc.
+MA,MASTERCARD INC CLASS A,Equity,0.88,340615,41997829.5,Information Technology,New York Stock Exchange Inc.
+BA,BOEING,Equity,0.85,203837,40653251.28,Industrials,New York Stock Exchange Inc.
+WMT,WALMART STORES INC,Equity,0.85,536392,40508323.84,Consumer Staples,New York Stock Exchange Inc.
+CELG,CELGENE CORP,Equity,0.8,283540,37903627.2,Health Care,NASDAQ
+HON,HONEYWELL INTERNATIONAL INC,Equity,0.78,276826,37114061.82,Industrials,New York Stock Exchange Inc.
+BMY,BRISTOL MYERS SQUIBB,Equity,0.72,598242,34297213.86,Health Care,New York Stock Exchange Inc.
+GILD,GILEAD SCIENCES INC,Equity,0.7,474512,33443605.76,Health Care,NASDAQ
+PCLN,THE PRICELINE GROUP INC,Equity,0.7,17854,33260752.22,Consumer Discretionary,NASDAQ
+UTX,UNITED TECHNOLOGIES CORP,Equity,0.69,270584,33057247.28,Industrials,New York Stock Exchange Inc.
+SLB,SCHLUMBERGER NV,Equity,0.69,504300,32966091,Energy,New York Stock Exchange Inc.
+UNP,UNION PACIFIC CORP,Equity,0.66,293208,31487607.12,Industrials,New York Stock Exchange Inc.
+SBUX,STARBUCKS CORP,Equity,0.66,525851,31293393.01,Consumer Discretionary,NASDAQ
+ABT,ABBOTT LABORATORIES,Equity,0.65,630123,31046160.21,Health Care,New York Stock Exchange Inc.
+QCOM,QUALCOMM INC,Equity,0.64,536500,30296155,Information Technology,NASDAQ
+AGN,ALLERGAN,Equity,0.63,121961,30137782.71,Health Care,New York Stock Exchange Inc.
+LLY,ELI LILLY,Equity,0.62,352591,29726947.21,Health Care,New York Stock Exchange Inc.
+USB,US BANCORP,Equity,0.62,575261,29510889.3,Financials,New York Stock Exchange Inc.
+GS,GOLDMAN SACHS GROUP INC,Equity,0.61,132935,29215124.95,Financials,New York Stock Exchange Inc.
+TXN,TEXAS INSTRUMENT INC,Equity,0.6,361511,28577444.55,Information Technology,NASDAQ
+CVS,CVS HEALTH CORP,Equity,0.6,369958,28568156.76,Consumer Staples,New York Stock Exchange Inc.
+TWX,TIME WARNER INC,Equity,0.59,281621,27993127.4,Consumer Discretionary,New York Stock Exchange Inc.
+ACN,ACCENTURE PLC CLASS A,Equity,0.58,225168,27488509.44,Information Technology,New York Stock Exchange Inc.
+UPS,UNITED PARCEL SERVICE INC CLASS B,Equity,0.57,250113,27279824.91,Industrials,New York Stock Exchange Inc.
+DOW,DOW CHEMICAL,Equity,0.55,408141,26051640.03,Materials,New York Stock Exchange Inc.
+DD,E I DU PONT DE NEMOURS,Equity,0.54,314842,25609248.28,Materials,New York Stock Exchange Inc.
+COST,COSTCO WHOLESALE CORP,Equity,0.53,159266,25449114.14,Consumer Staples,NASDAQ
+LMT,LOCKHEED MARTIN CORP,Equity,0.53,90269,25314135.67,Industrials,New York Stock Exchange Inc.
+NKE,NIKE INC CLASS B,Equity,0.53,481227,25216294.8,Consumer Discretionary,New York Stock Exchange Inc.
+MDLZ,MONDELEZ INTERNATIONAL INC CLASS A,Equity,0.52,550970,24711004.5,Consumer Staples,NASDAQ
+LOW,LOWES COMPANIES INC,Equity,0.51,311591,24410038.94,Consumer Discretionary,New York Stock Exchange Inc.
+CL,COLGATE-PALMOLIVE,Equity,0.51,320749,24226171.97,Consumer Staples,New York Stock Exchange Inc.
+NEE,NEXTERA ENERGY INC,Equity,0.51,170003,24070724.77,Utilities,New York Stock Exchange Inc.
+WBA,WALGREEN BOOTS ALLIANCE INC,Equity,0.5,310095,23681955.15,Consumer Staples,NASDAQ
+MS,MORGAN STANLEY,Equity,0.48,517222,23073273.42,Financials,New York Stock Exchange Inc.
+AXP,AMERICAN EXPRESS,Equity,0.47,272629,22423735.25,Financials,New York Stock Exchange Inc.
+CAT,CATERPILLAR INC,Equity,0.47,213939,22215425.76,Industrials,New York Stock Exchange Inc.
+DUK,DUKE ENERGY CORP,Equity,0.46,254147,21927803.16,Utilities,New York Stock Exchange Inc.
+PYPL,PAYPAL HOLDINGS INC,Equity,0.46,405678,21853873.86,Information Technology,NASDAQ
+BIIB,BIOGEN INC INC,Equity,0.46,77571,21764095.47,Health Care,NASDAQ
+GD,GENERAL DYNAMICS CORP,Equity,0.43,102855,20700597.3,Industrials,New York Stock Exchange Inc.
+MET,METLIFE INC,Equity,0.43,392344,20484280.24,Financials,New York Stock Exchange Inc.
+AIG,AMERICAN INTERNATIONAL GROUP INC,Equity,0.42,319442,20140818.1,Financials,New York Stock Exchange Inc.
+COP,CONOCOPHILLIPS,Equity,0.42,449228,20129906.68,Energy,New York Stock Exchange Inc.
+KHC,KRAFT HEINZ,Equity,0.41,216657,19304138.7,Consumer Staples,NASDAQ
+DHR,DANAHER CORP,Equity,0.4,221809,19066701.64,Health Care,New York Stock Exchange Inc.
+FDX,FEDEX CORP,Equity,0.4,89323,18903426.49,Industrials,New York Stock Exchange Inc.
+BK,BANK OF NEW YORK MELLON CORP,Equity,0.39,377611,18710625.05,Financials,New York Stock Exchange Inc.
+MON,MONSANTO,Equity,0.39,159344,18617752.96,Materials,New York Stock Exchange Inc.
+BLK,BLACKROCK INC,Equity,0.39,43966,18605092.22,Financials,New York Stock Exchange Inc.
+SO,SOUTHERN,Equity,0.38,361167,18195593.46,Utilities,New York Stock Exchange Inc.
+SPG,SIMON PROPERTY GROUP REIT INC,Equity,0.38,113372,18040886.36,Real Estate,New York Stock Exchange Inc.
+GM,GENERAL MOTORS,Equity,0.36,498663,17049287.97,Consumer Discretionary,New York Stock Exchange Inc.
+RTN,RAYTHEON,Equity,0.36,105637,17013895.22,Industrials,New York Stock Exchange Inc.
+OXY,OCCIDENTAL PETROLEUM CORP,Equity,0.35,277641,16716764.61,Energy,New York Stock Exchange Inc.
+F,F MOTOR,Equity,0.33,1420241,15807282.33,Consumer Discretionary,New York Stock Exchange Inc.
+COF,CAPITAL ONE FINANCIAL CORP,Equity,0.3,175378,14098637.42,Financials,New York Stock Exchange Inc.
+EMR,EMERSON ELECTRIC,Equity,0.29,234457,13769659.61,Industrials,New York Stock Exchange Inc.
+HAL,HALLIBURTON,Equity,0.28,315148,13204701.2,Energy,New York Stock Exchange Inc.
+KMI,KINDER MORGAN INC,Equity,0.27,697958,12968059.64,Energy,New York Stock Exchange Inc.
+EXC,EXELON CORP,Equity,0.26,336937,12352110.42,Utilities,New York Stock Exchange Inc.
+ALL,ALLSTATE CORP,Equity,0.25,132613,11711054.03,Financials,New York Stock Exchange Inc.
+TGT,TARGET CORP,Equity,0.21,200287,10140530.81,Consumer Discretionary,New York Stock Exchange Inc.

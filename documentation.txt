@@ -1,0 +1,17 @@
+TICKER:    identifier for publicly traded companies
+DIMENSION: type of earnings report (ARQ: As Reported Quarterly)
+DATEKEY:   earnings report date
+--------------------------------------------------------------------------------
+REVENUE:   revenue
+NETINC:    net income
+NCF:       net cash flow
+CASHNEQ:   cash and cash equivalents
+--------------------------------------------------------------------------------
+DE:        debt to equity ratio
+NETMARGIN: profit margin (net income/revenue)
+EPS:       earnings per share
+PE:        price to earnings ratio (market cap/net income)
+PS:        price to sales ratio (market cap/revenue)
+PB:        price to book ratio (market cap/net assets)
+BVPS:      book value per share
+PRICE:     adjusted closing price (adjusted for splits but not for dividends)
